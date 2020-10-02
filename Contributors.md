@@ -76,6 +76,7 @@ mOrTaL💀
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
 - [Vansh Maheshwari](https://github.com/VanshMaheshwari30)
+- [Shubhani Mulay](https://github.com/Shubhani25)
 - [Kishan Kumar](https://github.com/kishankrs)
 - [Snehasish Sameer Sourav](https://github.com/Xnehaxixh)
 - Mikaela Wade
@@ -198,9 +199,9 @@ mOrTaL💀
 - [Elly Howells](https://github.com/EJHowells)
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
-- [Serena Wang] 
-- [Sarah Yap](https://github.com/skyuanow) 
-- [Tyson Swords](https://github.com/Zeeennnyyy) 
+- [Serena Wang]
+- [Sarah Yap](https://github.com/skyuanow)
+- [Tyson Swords](https://github.com/Zeeennnyyy)
 - [Will Guo]
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
@@ -275,7 +276,7 @@ mOrTaL💀
 - Alexis Cumpstone
 - Yahaya Kehinde
 - Ajeet Singh Parmar
-- [Harshal Jain] (https://github.com/Harshal0506) 
+- [Harshal Jain] (https://github.com/Harshal0506)
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
